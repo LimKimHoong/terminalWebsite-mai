@@ -1,4 +1,4 @@
-# Lim Kim Hoong's Personal Website
+# Kim Hoong's Personal Website
 
 Welcome to my personal website! This is a terminal-style website that provides a unique, interactive way to explore my background, work experience, projects, and more.
 
